@@ -33,13 +33,13 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 -  Monitor medication schedule
 -  Receive SOS alerts
 
-### 👨‍⚕️ Doctor (Future Scope)
+### Doctor (Future Scope)
 - Patient dashboard (planned)
 - Prescription management (planned)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Kotlin (Android Development)
 - MVVM Architecture
@@ -48,5 +48,3 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 - Google Maps API
 - Android Jetpack (LiveData, ViewModel, WorkManager)
 - FusedLocationProviderClient
-
-## 📂 Project Structure
