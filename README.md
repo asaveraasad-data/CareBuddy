@@ -1,4 +1,4 @@
-# 🩺 CareBuddy – Smart Health Companion for Elderly Care
+# CareBuddy – Smart Health Companion for Elderly Care
 
 CareBuddy is a smart Android healthcare application built in Kotlin to assist elderly individuals, family caregivers, and doctors in managing health efficiently through a unified digital system.
 
@@ -8,7 +8,6 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 
 ## 📱 Screenshots
 
-### 🏠 Home / Role Selection
 ![Home Screen](home.png)
 
 ![Senior Dashboard](22.png)
@@ -19,20 +18,20 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👴 Senior (Elderly User)
-- 📅 Medication reminders with notifications
-- ❤️ Health tracking (BP, sugar, heart rate, temperature)
-- 😊 Mood tracking system
-- 🆘 Emergency SOS (one-tap call with 3-sec hold)
-- 📍 Live location sharing
+###  Senior (Elderly User)
+-  Medication reminders with notifications
+-  Health tracking (BP, sugar, heart rate, temperature)
+-  Mood tracking system
+-  Emergency SOS (one-tap call with 3-sec hold)
+-  Live location sharing
 
-### 👨‍👩‍👧 Family Member
-- 🗺️ Real-time GPS tracking on Google Maps
-- 📊 View health logs
-- 💊 Monitor medication schedule
-- 🚨 Receive SOS alerts
+###  Family Member
+-  Real-time GPS tracking on Google Maps
+-  View health logs
+-  Monitor medication schedule
+-  Receive SOS alerts
 
 ### 👨‍⚕️ Doctor (Future Scope)
 - Patient dashboard (planned)
