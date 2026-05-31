@@ -8,13 +8,13 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 
 ## Screenshots
 
-![Home Screen](home.png)
+![Home Screen](screenshots/home.png)
 
-![Senior Dashboard](22.png)
+![Senior Dashboard](screenshots/22.png)
 
-![Family Dashboard](33.png)
+![Family Dashboard](screenshots/33.png)
 
-![Health Tracking](44.png)
+![Health Tracking](screenshots/44.png)
 
 ---
 
