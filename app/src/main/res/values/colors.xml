@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary_blue">#4A90D9</color>
+    <color name="primary_blue_light">#EBF4FF</color>
+    <color name="primary_blue_dark">#2E6DB4</color>
+
+    <!-- Teal accent (Family role color) -->
+    <color name="teal">#4DB6AC</color>
+    <color name="teal_light">#E0F5F3</color>
+
+    <!-- Orange accent (Doctor role color) -->
+    <color name="orange">#F5A623</color>
+    <color name="orange_light">#FEF3E0</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F7FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_light">#F0F4F8</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A2340</color>
+    <color name="text_secondary">#6B7A99</color>
+    <color name="text_hint">#B0BEC5</color>
+
+    <!-- Status Colors -->
+    <color name="status_good">#27AE60</color>
+    <color name="status_monitor">#F5A623</color>
+    <color name="status_alert">#E74C3C</color>
+
+    <!-- SOS Colors -->
+    <color name="sos_red">#E74C3C</color>
+    <color name="sos_red_light">#FDEDEC</color>
+
+    <!-- Time Slot Colors -->
+    <color name="slot_morning">#FFB300</color>
+    <color name="slot_afternoon">#FF8F00</color>
+    <color name="slot_evening">#6D4C41</color>
+    <color name="slot_night">#3949AB</color>
+
+    <!-- Mood Colors -->
+    <color name="mood_great">#27AE60</color>
+    <color name="mood_good">#4A90D9</color>
+    <color name="mood_okay">#F5A623</color>
+    <color name="mood_sad">#E74C3C</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_line">#4A90D9</color>
+    <color name="chart_fill">#1A4A90D9</color>
+
+    <!-- White / Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Divider -->
+    <color name="divider">#E8ECF0</color>
+</resources>

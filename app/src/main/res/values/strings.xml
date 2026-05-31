@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CareBuddy</string>
+    <string name="tagline">Your Health Companion</string>
+    <string name="caring_text">Caring for you and your loved ones</string>
+
+    <!-- Roles -->
+    <string name="role_senior">I am a Senior</string>
+    <string name="role_family">I am a Family Member</string>
+    <string name="role_doctor">I am a Doctor</string>
+
+    <!-- Auth -->
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="have_account">Already have an account? </string>
+    <string name="email_hint">your.email@example.com</string>
+
+    <!-- Dashboard -->
+    <string name="health_score">Health Score</string>
+    <string name="todays_medications">Today\'s Medications</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="health_logs">Health Logs</string>
+    <string name="mood_tracker">Mood Tracker</string>
+    <string name="ai_health_tips">AI Health Tips</string>
+    <string name="emergency_sos">Emergency SOS</string>
+
+    <!-- Medicine -->
+    <string name="add_medication">Add Medication</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="when_to_take">When to take?</string>
+    <string name="save_medication">Save Medication</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- SOS -->
+    <string name="sos_instruction">Press and hold for 3 seconds to activate emergency alert</string>
+    <string name="emergency_alert_sent">Emergency Alert Sent!</string>
+    <string name="notifying_contacts">Notifying your emergency contacts…</string>
+
+    <!-- Mood -->
+    <string name="how_feeling">How are you feeling today?</string>
+    <string name="track_emotional">Track your emotional wellbeing</string>
+    <string name="select_mood">Select Your Mood</string>
+    <string name="mood_this_week">Your Mood This Week</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="medical_conditions">Medical Conditions</string>
+    <string name="allergies">Allergies</string>
+    <string name="current_medications">Current Medications</string>
+    <string name="logout">Log Out</string>
+</resources>
