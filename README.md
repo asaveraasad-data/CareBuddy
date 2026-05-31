@@ -6,7 +6,7 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 ![Home Screen](home.png)
 
