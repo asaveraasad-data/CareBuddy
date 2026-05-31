@@ -1,4 +1,4 @@
-# CareBuddy – Smart Health Companion for Elderly Care
+# CareBuddy – AI based Health Companion for Elderly Care
 
 CareBuddy is a smart Android healthcare application built in Kotlin to assist elderly individuals, family caregivers, and doctors in managing health efficiently through a unified digital system.
 
