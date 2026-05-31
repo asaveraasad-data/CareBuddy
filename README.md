@@ -50,6 +50,4 @@ It provides medication reminders, health tracking, SOS emergency features, and r
 - Android Jetpack (LiveData, ViewModel, WorkManager)
 - FusedLocationProviderClient
 
----
-
 ## 📂 Project Structure
